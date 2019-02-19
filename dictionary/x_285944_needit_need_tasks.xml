@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Need Tasks" max_length="40" name="x_285944_needit_need_tasks" type="collection">
+        <element label="Reffer to" max_length="32" name="u_reference_1" reference="imp_user" type="reference"/>
+        <element label="Req Number" max_length="32" name="u_reference_3" reference="x_285944_needit_needit_req" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="40" name="u_string_2" type="string"/>
+        <index name="index">
+            <element name="u_reference_3"/>
+        </index>
+        <index name="index2">
+            <element name="u_reference_1"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1ec9a25cdbb323000368f282399619c0" sys_domain="global" table="option" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-19 11:31:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2c9a25cdbb323000368f282399619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="option" name="option" sys_domain="global" view="Default view">1ec9a25cdbb323000368f282399619c0</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="option" sys_domain="global" view="Default view">489a5214dbb323000368f2823996191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-19 11:31:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-19 11:31:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dec9a25cdbb323000368f282399619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="option" name="option" sys_domain="global" view="Default view">1ec9a25cdbb323000368f282399619c0</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="option" sys_domain="global" view="Default view">dec9a25cdbb323000368f282399619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-19 11:31:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>option</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-19 11:31:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ec9a25cdbb323000368f282399619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>option</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_285944_needit">3896d250dbb323000368f282399619b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">3896d250dbb323000368f282399619b8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1ec9a25cdbb323000368f282399619c0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-19 11:31:53</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

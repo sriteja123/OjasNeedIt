@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="label" max_length="40" name="option" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="priority" max_length="40" name="x_285944_needit_u_choice_5" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="x_285944_needit_u_choice_7" type="string">
+            <choice/>
+        </element>
+        <element label="Requested for" max_length="32" name="x_285944_needit_u_reference_3" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="x_285944_needit_u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="short description" max_length="40" name="x_285944_needit_u_string_6" type="string"/>
+    </element>
+</database>
